@@ -1,0 +1,22 @@
+Redes Neurais Artificiais para Simpatizantes
+___________________________________________
+
+Materiais
+---------
+
+Rede neural artificial em funcionamento - A Neural Network Playground - TensorFlow
+
+https://playground.tensorflow.org/#activation=tanh
+
+
+Livros:
+
+LUGER, George F. Inteligência artificial. Tradução e revisão técnica de Daniel Vieira e Andréa Iabrudi Tavares. 6. ed. São Paulo: Pearson, 2013. 616 p.
+
+ZHANG, Aston; LIPTON, Zachary C.; LI, Mu; SMOLA, Alexander J. Dive into Deep Learning.  2023. Disponível em: https://d2l.ai/. Acesso em: 12 nov. 2025.
+
+
+Artigo:
+
+SCHLEDER, Gabriel R, FAZZIO, Adalberto. Machine Learning na F´ısica, Qu´ımica, e Ciˆencia de
+Materiais: Descoberta e Design de Materiais. Revista Brasileira de Ensino de Física, v. 43, supl. 1, e20200407, 2021. Disponível em https://doi.org/10.1590/1806-9126-RBEF-2020-0407
